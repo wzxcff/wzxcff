@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on [Aerobank](https://github.com/wzxcff/Aerobank) and [Aerobank-frontend](https://github.com/wzxcff/aerobank-frontend)
 - 🌱 In progress of learning Python, Java, TypeScript
-- 😄 Computer science student at V. N. Karazin Kharkiv National University
+- 📚 Computer science student at V. N. Karazin Kharkiv National University
 
 
 <!--
