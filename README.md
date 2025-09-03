@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🌱 In progress of learning Python, Java, TypeScript
+- 🌱 In progress of learning Python & Java
 - 📚 Computer science student at V. N. Karazin Kharkiv National University
+- 🌍 Located in Germany
+- 💬 Languages: Ukrainian, English, in process of learning Deutsch
 
 
 <!--
