@@ -14,7 +14,7 @@ I build backend services with Java and Spring Boot, and I like projects that rea
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Projects
-- **[CarFlow](https://github.com/wzxcff/CarRental)**: car rental REST API (Spring Boot, PostgreSQL, Flyway, Testcontainers, CI)
+- **[CarRental](https://github.com/wzxcff/CarRental)**: car rental REST API (Spring Boot, PostgreSQL, Flyway, Testcontainers, CI)
 - **Home server**: Raspberry Pi 5 running 24/7, services in Docker containers, exposed via Cloudflare Tunnel (my Discord bot and personal site). Exploring AI integration for backend services (Spring AI, self-hosted LLMs).
 
 ### Currently
