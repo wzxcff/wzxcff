@@ -1,22 +1,24 @@
-## Hi there 👋
+## Hi, I'm Bohdan 👋
 
-- 🌱 In progress of learning Python & Java
-- 📚 Computer science student at V. N. Karazin Kharkiv National University
-- 🌍 Located in Germany
-- 💬 Languages: Ukrainian, English, German
+Computer science student (V. N. Karazin Kharkiv National University) based in Germany.
+I build backend services with Java and Spring Boot, and I like projects that real people actually use.
 
+### What I work with
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-<!--
-**wzxcff/wzxcff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- **[CarFlow](https://github.com/wzxcff/CarRental)**: car rental REST API (Spring Boot, PostgreSQL, Flyway, Testcontainers, CI)
+- **Home server**: Raspberry Pi 5 running 24/7, services in Docker containers, exposed via Cloudflare Tunnel (my Discord bot and personal site). Exploring AI integration for backend services (Spring AI, self-hosted LLMs).
 
-Here are some ideas to get you started:
+### Currently
+- Looking for a Java backend internship in the Friedrichshafen area
+- Languages: Ukrainian (native), English, German (B2, in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/bohdan-shevchenko01-/) | [Email](mailto:bohdan.shevchenko01@gmail.com)
